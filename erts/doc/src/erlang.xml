@@ -5625,7 +5625,7 @@ RealSystem = system + MissedSystem</code>
         <p>Removes old code for <c><anno>Module</anno></c>.
           Before this BIF is used,
           <seealso marker="#check_process_code/2">
-          <c>check_process_code/2</c></seealso>is to be called to check
+          <c>check_process_code/2</c></seealso> is to be called to check
           that no processes execute old code in the module.</p>
         <warning>
           <p>This BIF is intended for the code server (see
